@@ -422,6 +422,7 @@ disable=raw-checker-failed,
         useless-suppression,
         deprecated-pragma,
         use-symbolic-message-instead,
+        import-error,
         missing-module-docstring,
         missing-function-docstring
 
