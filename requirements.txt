@@ -1,2 +1,6 @@
 flake8
 pylint
+python-decouple
+pandas
+sklearn
+flask
